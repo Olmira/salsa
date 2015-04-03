@@ -1,0 +1,5 @@
+<aiml version="2.0">
+
+<category><pattern>CHANGE TOPIC</pattern><template>What would you like to talk about now?</template></category>
+
+</aiml>

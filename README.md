@@ -17,3 +17,8 @@ This is the place for experimentations.
  - Commit locally on your computer, specifying comments about changes that you have made
  - Push to your local fork on GitHub repository to ensure backup
  - Make pull request on the GitHub website to synchronize upstream with your private fork repository
+
+##Useful links
+ - Download [Notepad++](http://notepad-plus-plus.org/download/)
+ - Download GitHub for [Windows](https://windows.github.com/) or [Mac](https://mac.github.com/)
+ - [Article](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) "How to Collaborate on GitHub"

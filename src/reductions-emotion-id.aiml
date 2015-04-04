@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<!-- about personal emotions -->
+
+<!-- main category -->
+<category>
+<pattern># I #<set>emotions</set> #</pattern>
+<template>Can you tell me more about that?</template>
+</category>
+
+
+
+<!-- reductions of main category -->
+<category>
+<pattern># IT MAKES ME #<set>emotions</set> #</pattern>
+<template><srai><star/> I <star index="2"/><set>emotions</set> <star index="3"/></srai></template>
+</category>
+
+<category>
+<pattern># <set>emotions</set> # MYSELF #</pattern>
+<template><srai><star/> I <star index="2"/><set>emotions</set> <star index="3"/></srai></template>
+</category>
+
+<category>
+<pattern># <set>emotions</set> # MYSELF #</pattern>
+<template><srai><star/> I <star index="2"/><set>emotions</set> <star index="3"/></srai></template>
+</category>
+
+
+
+</aiml>

@@ -1,5 +1,5 @@
 # Salsa
-This is the place for experimentation.
+This is the place for experimentations.
 
 ## The setup (only once)
  - Fork the main repository to your private GitHub account

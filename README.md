@@ -15,4 +15,7 @@ This is the place for experimentations.
  - If anything changed online, download files from the PCt platform to your local repository again
  - Commit locally on your computer, specifying comments about changes that you have made
  - Push to your local fork on GitHub repository to ensure backup
- - Make pull request on the GitHub website
+ - Make pull request on the GitHub website 
+ 
+ 
+ olmira

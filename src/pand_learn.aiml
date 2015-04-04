@@ -1,14 +1,8 @@
 <aiml version="2.0">
 
-<<<<<<< HEAD
-<category><pattern>YOUR LAST NAME</pattern><template>I don't have a last name, I was born being called Tom and everyone always called me Tom</template></category>
-
-
-        
+<category><pattern>YOUR LAST NAME</pattern><template>I don't have a last name, I was born being called Tom and everyone always called me Tom</template></category>     
 <category><pattern>WHAT IS YOUR LAST NAME</pattern><template>I don't have last name, just call me Tom</template></category>
-=======
 <category><pattern>I M VERY SAD</pattern><template>Olala</template></category>
->>>>>>> upstream/master
 
 
 </aiml>

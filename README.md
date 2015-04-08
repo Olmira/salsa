@@ -18,7 +18,7 @@ This is the place for experimentations.
  - Push to your local fork on GitHub repository to ensure backup
  - Make pull request on the GitHub website to synchronize upstream with your private fork repository
 
-![enter image description here](https://photos-2.dropbox.com/t/2/AADMGhNC-lryRoKGoVU35Yq9li1JokjW_N0V7rA6ntreHg/12/1087978/png/1024x768/3/1428188400/0/2/working-schema.png/COqzQiABIAIgAygBKAI/muZ2po7af6CTlAqbk5Jf8p9u8HjY6Vh8SjjPnH7V6ZQ)
+![enter image description here](https://photos-5.dropbox.com/t/2/AABlGKJfuyDSYRsEbCi4kT4i37Ak95AtV_uUYKxROkdeDg/12/1087978/png/1024x768/3/1428487200/0/2/working-schema.png/COqzQiABIAIgAygBKAI/muZ2po7af6CTlAqbk5Jf8p9u8HjY6Vh8SjjPnH7V6ZQ)
 
 
 ##Useful links
